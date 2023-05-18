@@ -1,0 +1,4 @@
+[05-Jul-2021 20:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nipponfocus/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nipponfocus/public_html/wp-content/themes/twentynineteen/404.php on line 12

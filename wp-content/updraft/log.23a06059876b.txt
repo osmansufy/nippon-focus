@@ -1,0 +1,185 @@
+0000.001 (0) Opened log file at time: Sun, 08 Aug 2021 10:28:06 +0000 on http://nippon-focus.test
+0000.037 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.59 WP: 5.8 PHP: 7.2.11 (apache2handler, Windows NT DESKTOP-6K3RDT4 10.0 build 18363 (Windows 10) AMD64) MySQL: 5.7.24 (max packet size=536870912) WPLANG: en_US Server: Apache/2.4.35 (Win64) OpenSSL/1.1.0i PHP/7.2.11 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 42.6M | 10M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.077 (0) Free space on disk containing Updraft's temporary directory: 303447.9 MB
+0000.167 (0) Deleting old temporary file: log.753425ef4270-browser.txt
+0000.234 (0) Deleting old log file: log.753425ef4270.txt
+0000.235 (0) Deleting old log file: log.dd70881415b7.txt
+0000.237 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.343 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.421 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2021-08-08 10:28:06
+0000.509 (0) Semaphore (fd, wp_options) reset to 1
+0000.576 (0) Set semaphore last lock (fd) time to 2021-08-08 10:28:06
+0000.604 (0) Semaphore lock (fd) complete
+0000.720 (0) Backup run: resumption=0, nonce=23a06059876b, file_nonce=23a06059876b begun at=1628418486 (0s ago), job type=backup
+0000.797 (0) Scheduling a resumption (1) after 300 seconds (1628418786) in case this run gets aborted
+0000.908 (0) Checking if we have a zip executable available
+0000.981 (0) Creation of backups of directories: beginning
+0001.085 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.463 (0) Entity excluded by filter: plugins/all-in-one-wp-migration/storage/wqbd330o21rr/nippon-focus.test-20210808-085056-5g3xim.wpress
+0002.506 (0) Total entities for the zip file: 380 directories, 2659 files (0 skipped as non-modified), 42.1 MB
+0002.622 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.701 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.765 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.996 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0003.148 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0003.231 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0003.293 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0003.389 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0003.468 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0003.551 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0003.594 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.7 MB, 2659 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0010.837 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1100 files added (on-disk size: 8586.7 KB)
+0010.913 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1200 files added (on-disk size: 8586.7 KB)
+0010.974 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1300 files added (on-disk size: 8586.7 KB)
+0011.084 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1400 files added (on-disk size: 8586.7 KB)
+0011.157 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1500 files added (on-disk size: 8586.7 KB)
+0011.217 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1600 files added (on-disk size: 8586.7 KB)
+0011.282 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1700 files added (on-disk size: 8586.7 KB)
+0011.353 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1800 files added (on-disk size: 8586.7 KB)
+0011.436 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 1900 files added (on-disk size: 8586.7 KB)
+0011.507 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 2000 files added (on-disk size: 8586.7 KB)
+0011.547 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.2 MB, 2659 files batched, 1001 (2002) added so far); re-opening (prior size: 8586.7 KB)
+0015.672 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 2100 files added (on-disk size: 14824.6 KB)
+0015.755 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 2200 files added (on-disk size: 14824.6 KB)
+0015.831 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 2300 files added (on-disk size: 14824.6 KB)
+0015.897 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 2400 files added (on-disk size: 14824.6 KB)
+0015.973 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 2500 files added (on-disk size: 14824.6 KB)
+0016.037 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip.tmp: 2600 files added (on-disk size: 14824.6 KB)
+0017.842 (0) Created plugins zip (0) - 15919.3 KB in 16.7 s (952.6 KB/s) (sha1: 80510a348b2782c5994e6cc09f52e525348253b0, sha256: 5e4da588ec5e0ba1be0cdf1c52ac3666c8c249349a0352dbd117a6673bca05e1)
+0017.907 (0) Beginning creation of dump of themes (split every: 400 MB)
+0018.350 (0) Total entities for the zip file: 124 directories, 576 files (0 skipped as non-modified), 20.5 MB
+0018.415 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0018.498 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0018.583 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0018.665 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0018.724 (0) Zip: backup_2021-08-08-1028_Nippon_23a06059876b-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0022.934 (0) Created themes zip (0) - 17695 KB in 5 s (3571.1 KB/s) (sha1: df727159b44a9570f0142f641bf0795d3ae43c49, sha256: 40e758075c357cdc3d15e104bc5f9e73b9ca5a652ca97457998566edb41f1dc5)
+0023.000 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0023.036 (0) Looking for candidates to backup in: D:\Laragon\www\nippon-focus/wp-content/uploads
+0023.066 (0) finding files: 2021: adding to list (1)
+0023.102 (0) finding files: bb-plugin: adding to list (2)
+0023.132 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0023.303 (0) Total entities for the zip file: 4 directories, 85 files (0 skipped as non-modified), 10.1 MB
+0026.635 (0) Created uploads zip (0) - 10341.9 KB in 3.4 s (3000 KB/s) (sha1: dc335c962a8d1accc4ab340b6f843ac65df35c0b, sha256: 7d19cf0f770242f9f24ba9dbc4f9b51404e31083a8c1cf248eec4b50b8131999)
+0026.700 (0) Beginning backup of other directories found in the content directory (index: 0)
+0026.731 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0026.844 (0) Looking for candidates to backup in: D:\Laragon\www\nippon-focus/wp-content
+0026.874 (0) finding files: advanced-cache.php-old: adding to list (1)
+0026.910 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0026.941 (0) finding files: index.php: adding to list (2)
+0026.977 (0) finding files: index.php-old: adding to list (3)
+0027.007 (0) finding files: languages: adding to list (4)
+0027.043 (0) finding files: languages-old: adding to list (5)
+0027.074 (0) finding files: plugins: skipping: this is the plugins directory
+0027.110 (0) finding files: themes: skipping: this is the themes directory
+0027.140 (0) finding files: updraft: skipping: this is the updraft directory
+0027.176 (0) finding files: upgrade: skipping: excluded by options
+0027.206 (0) finding files: uploads: skipping: this is the uploads directory
+0027.357 (0) Total entities for the zip file: 6 directories, 99 files (0 skipped as non-modified), 7.1 MB
+0028.971 (0) Created others zip (0) - 1994.4 KB in 1.7 s (1156 KB/s) (sha1: e7f154331c3b8a4704ad121e0cbe777a59850e38, sha256: 793e5e5e4980385fca57077a3956f33281d2231cd1c72ded24d9b81ebc9f435d)
+0029.103 (0) Saving backup status to database (elements: 8)
+0029.169 (0) Beginning creation of database dump (WordPress DB)
+0029.200 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0029.594 (0) Table wp_options: Total expected rows (approximate): 513
+0029.851 (0) Table wp_options: Rows added in this batch (next record: 32771): 517 (uncompressed bytes in this segment=1821506) in 0.22 seconds
+0029.989 (0) Table wp_options: finishing file(s) (2, 358.3 KB)
+0030.056 (0) Table wp_users: Total expected rows (approximate): 0
+0030.088 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1340) in 0.00 seconds
+0030.211 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0030.278 (0) Table wp_usermeta: Total expected rows (approximate): 32
+0030.364 (0) Table wp_usermeta: Rows added in this batch (next record: 36): 32 (uncompressed bytes in this segment=3129) in 0.06 seconds
+0030.496 (0) Table wp_usermeta: finishing file(s) (2, 1.5 KB)
+0030.566 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0030.722 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=673) in 0.11 seconds
+0030.841 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0030.908 (0) Table wp_comments: Total expected rows (approximate): 0
+0030.974 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2101) in 0.04 seconds
+0031.061 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0031.131 (0) Table wp_links: Total expected rows (approximate): 0
+0031.163 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1270) in 0.00 seconds
+0031.260 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0031.328 (0) Table wp_postmeta: Total expected rows (approximate): 240
+0031.434 (0) Table wp_postmeta: Rows added in this batch (next record: 276): 235 (uncompressed bytes in this segment=27284) in 0.07 seconds
+0031.572 (0) Table wp_postmeta: finishing file(s) (2, 4 KB)
+0031.639 (0) Table wp_posts: Total expected rows (approximate): 95
+0031.747 (0) Table wp_posts: Rows added in this batch (next record: 120): 95 (uncompressed bytes in this segment=45131) in 0.08 seconds
+0031.937 (0) Table wp_posts: finishing file(s) (2, 7.5 KB)
+0032.026 (0) Table wp_term_relationships: Total expected rows (approximate): 50
+0032.092 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 50 (uncompressed bytes in this segment=1340) in 0.03 seconds
+0032.181 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0032.249 (0) Table wp_term_taxonomy: Total expected rows (approximate): 12
+0032.347 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 17): 12 (uncompressed bytes in this segment=1516) in 0.07 seconds
+0032.490 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0032.558 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0032.668 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=646) in 0.08 seconds
+0032.823 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0032.879 (0) Table wp_terms: Total expected rows (approximate): 12
+0032.946 (0) Table wp_terms: Rows added in this batch (next record: 17): 12 (uncompressed bytes in this segment=1107) in 0.03 seconds
+0033.060 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0033.150 (0) Table wp_litespeed_img_optm: Total expected rows (approximate): 0
+0033.216 (0) Table wp_litespeed_img_optm: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=822) in 0.00 seconds
+0033.322 (0) Table wp_litespeed_img_optm: finishing file(s) (2, 0.4 KB)
+0033.413 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_options.table.tmpr32772.gz (1/13/fopen): adding to final database dump
+0033.496 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_options.table.gz (2/13/fopen): adding to final database dump
+0033.530 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_users.table.tmpr2.gz (3/13/fopen): adding to final database dump
+0033.564 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_users.table.gz (4/13/fopen): adding to final database dump
+0033.597 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_usermeta.table.tmpr37.gz (5/13/fopen): adding to final database dump
+0033.631 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_usermeta.table.gz (6/13/fopen): adding to final database dump
+0033.664 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_commentmeta.table.tmpr0.gz (7/13/fopen): adding to final database dump
+0033.697 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_commentmeta.table.gz (8/13/fopen): adding to final database dump
+0033.730 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_comments.table.tmpr2.gz (9/13/fopen): adding to final database dump
+0033.764 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_comments.table.gz (10/13/fopen): adding to final database dump
+0033.797 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_links.table.tmpr0.gz (11/13/fopen): adding to final database dump
+0033.830 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_links.table.gz (12/13/fopen): adding to final database dump
+0033.863 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_postmeta.table.tmpr277.gz (13/13/fopen): adding to final database dump
+0033.897 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_postmeta.table.gz (14/13/fopen): adding to final database dump
+0033.930 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_posts.table.tmpr121.gz (15/13/fopen): adding to final database dump
+0033.963 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_posts.table.gz (16/13/fopen): adding to final database dump
+0033.995 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_term_relationships.table.tmpr100001.gz (17/13/fopen): adding to final database dump
+0034.029 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_term_relationships.table.gz (18/13/fopen): adding to final database dump
+0034.063 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_term_taxonomy.table.tmpr18.gz (19/13/fopen): adding to final database dump
+0034.096 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_term_taxonomy.table.gz (20/13/fopen): adding to final database dump
+0034.129 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_termmeta.table.tmpr0.gz (21/13/fopen): adding to final database dump
+0034.162 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_termmeta.table.gz (22/13/fopen): adding to final database dump
+0034.195 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_terms.table.tmpr18.gz (23/13/fopen): adding to final database dump
+0034.229 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_terms.table.gz (24/13/fopen): adding to final database dump
+0034.262 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_litespeed_img_optm.table.tmpr0.gz (25/13/fopen): adding to final database dump
+0034.295 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db-table-wp_litespeed_img_optm.table.gz (26/13/fopen): adding to final database dump
+0034.479 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db.gz: finished writing out complete database file (376.4 KB)
+0034.615 (0) Total database tables backed up: 13 (backup_2021-08-08-1028_Nippon_23a06059876b-db.gz, size: 385579, sha1: bc486101b8e11e19ca639bf9eacce9ba3b741190, sha256: 04fc8276bf9b91a6bb1de047ecf7261a7897306756a5849ced959351521b3780)
+0034.759 (0) backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0034.804 (0) backup_2021-08-08-1028_Nippon_23a06059876b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0034.838 (0) backup_2021-08-08-1028_Nippon_23a06059876b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0034.871 (0) backup_2021-08-08-1028_Nippon_23a06059876b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0034.904 (0) backup_2021-08-08-1028_Nippon_23a06059876b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0034.948 (0) Saving backup history. Total backup size: 45.2 MB
+0035.014 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0035.113 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0035.148 (0) No remote despatch: user chose no remote backup service
+0035.180 (0) Recording as successfully uploaded: backup_2021-08-08-1028_Nippon_23a06059876b-plugins.zip
+0035.246 (0) Recording as successfully uploaded: backup_2021-08-08-1028_Nippon_23a06059876b-themes.zip
+0035.313 (0) Recording as successfully uploaded: backup_2021-08-08-1028_Nippon_23a06059876b-uploads.zip
+0035.379 (0) Recording as successfully uploaded: backup_2021-08-08-1028_Nippon_23a06059876b-others.zip
+0035.445 (0) Recording as successfully uploaded: backup_2021-08-08-1028_Nippon_23a06059876b-db.gz
+0035.547 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0035.579 (0) Number of backup sets in history: 2; groups (db): 1
+0035.613 (0) Examining (for databases) backup set with group_id=0, nonce=23a06059876b, datestamp=1628418486 (Aug 08 2021 10:28:06)
+0035.644 (0) This backup set is the backup set just made, so will not be deleted.
+0035.644 (0) Examining (for databases) backup set with group_id=0, nonce=dd70881415b7, datestamp=1608653634 (Dec 22 2020 16:13:54)
+0035.644 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0035.679 (0) Number of backup sets in history: 2; groups (files): 1
+0035.711 (0) Examining (for files) backup set with nonce=23a06059876b, datestamp=1628418486 (Aug 08 2021 10:28:06)
+0035.711 (0) This backup set is the backup set just made, so will not be deleted.
+0035.746 (0) This backup set is the backup set just made, so will not be deleted.
+0035.746 (0) This backup set is the backup set just made, so will not be deleted.
+0035.746 (0) This backup set is the backup set just made, so will not be deleted.
+0035.746 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0035.777 (0) Examining (for files) backup set with nonce=dd70881415b7, datestamp=1608653634 (Dec 22 2020 16:13:54)
+0035.777 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0035.778 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0035.844 (0) Resume backup (23a06059876b, 0): finish run
+0035.978 (0) Decremented the semaphore (fd) by 1
+0036.045 (0) Semaphore (fd) unlocked
+0036.120 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0036.244 (0) No email will/can be sent - the user has not configured an email address.
+0036.277 (0) The backup apparently succeeded and is now complete

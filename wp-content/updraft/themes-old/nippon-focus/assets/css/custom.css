@@ -1,0 +1,96 @@
+/* custom */
+@font-face {
+  src: url("../fonts/nevis.ttf");
+  font-family: nevis;
+}
+.bold {
+    font-weight: bold !important;
+}
+body{
+    background: fixed linear-gradient(to right bottom, #6d327c, #485DA6, #00a1ba, #01b18e, #32b37b);
+}
+.m-t-5{
+	margin-top: 156px;
+}
+.navbar-brand.logo {
+  font-family: nevis;
+  font-weight: bold;
+  font-size: 24px;
+}
+.spacing.w-100.h-20 {
+  width: 100%;
+  height: 10px;
+}
+.custom-pad {
+  padding-right: 2px;
+}
+
+.focus {
+  margin-left: 100px;
+}
+.logo2 h3 a span {
+  margin-left: 112px;
+}
+.navbar-brand img {
+  height: 50px;
+  width: 60px;
+  margin-right: 5px;
+}
+.logo {
+  display: flex;
+}
+
+.service-icon {
+  filter: brightness() invert(1);
+}
+.all-nav{
+  display: flex;
+  justify-content: space-around;
+}
+#menu-language {
+  margin: 15px;
+  background-color: #97dc4c;
+  padding: 2px;
+  min-width: 80px;
+  border: 1px solid red;
+}
+#menu-language .dropdown-menu {
+  width: 80px !important;
+  min-width: 80px;
+  background-color: #408380;
+}
+#menu-language .dropdown-menu li a {
+  padding: 3px !important;
+  color: red !important;
+}
+
+@media (max-width: 414px) {
+  nav.navbar.navbar-default.navbar-fixed-top {
+    padding: 0;
+  }
+  .focus {
+    margin-left: 72px;
+  }
+  .navbar-brand.logo {
+    font-size: 16px !important;
+    line-height: 1 !important;
+  }
+}
+
+@media (max-width: 568px) {
+  .callbacks_tabs {
+    display: none;
+  }
+  .m-t-5{
+	margin-top: 0;
+}
+  .navbar-brand.logo {
+
+    font-size: 20px;
+    line-height: 1 !important;
+  }
+  #menu-language {
+      margin:0;
+      padding:0;
+  }
+}
